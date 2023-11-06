@@ -1,6 +1,6 @@
 {
   "homepage": "https://sambock.tech",
-  "name": "Sam Website",
+  "name": "sam-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
