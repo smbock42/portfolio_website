@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3cf13eba.css",
-    "main.js": "/static/js/main.908dea2e.js",
+    "main.js": "/static/js/main.27938753.js",
     "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
     "static/js/64.e4b7a8b4.chunk.js": "/static/js/64.e4b7a8b4.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
@@ -13,6 +13,7 @@
     "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
     "static/media/lockheedLogo.png": "/static/media/lockheedLogo.17f9f415bafc4bd30a99.png",
     "static/media/googleAssistantLogo.webp": "/static/media/googleAssistantLogo.f720c71652579588524a.webp",
+    "static/media/airbnbLogo.png": "/static/media/airbnbLogo.e8497507db673acd3991.png",
     "static/media/cal_poly.png": "/static/media/cal_poly.dc8b0558ed038839d970.png",
     "static/media/haptxLogo.png": "/static/media/haptxLogo.bbec4b25e802ae95d490.png",
     "static/media/codeInLogo.webp": "/static/media/codeInLogo.e41a71d512efeda2a55c.webp",
@@ -23,7 +24,7 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.3cf13eba.css.map": "/static/css/main.3cf13eba.css.map",
-    "main.908dea2e.js.map": "/static/js/main.908dea2e.js.map",
+    "main.27938753.js.map": "/static/js/main.27938753.js.map",
     "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
     "64.e4b7a8b4.chunk.js.map": "/static/js/64.e4b7a8b4.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
@@ -31,6 +32,6 @@
   },
   "entrypoints": [
     "static/css/main.3cf13eba.css",
-    "static/js/main.908dea2e.js"
+    "static/js/main.27938753.js"
   ]
 }
